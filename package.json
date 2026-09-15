@@ -1,0 +1,16 @@
+{
+  "name": "equipment-loan-code-review",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Student starter repository for a code review coursework exercise.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "demo": "node src/demo.js",
+    "test": "node --test test/*.test.js",
+    "test:smoke": "node --test test/smoke.test.js",
+    "test:acceptance": "node --test test/acceptance.test.js"
+  }
+}

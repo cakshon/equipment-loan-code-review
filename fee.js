@@ -1,5 +1,6 @@
 //modification by cakshon
 
+
 function labChargeFee(borrowingDays, dailyRate) {
   let totalFee = borrowingDays * dailyRate;
 

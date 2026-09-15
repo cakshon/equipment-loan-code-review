@@ -1,7 +1,9 @@
 //modification by cakshon
 
-function fee(d, r) {
-  let total = d * r;
-  console.log(total);
-  return total;
+function labChargeFee(borrowingDays, dailyRate) {
+  let totalFee = borrowingDays * dailyRate;
+
+  // we dont need this line
+  // console.log(total);
+  return totalFee;
 }

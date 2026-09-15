@@ -116,4 +116,4 @@ Submit through the instructor-designated channel:
 
 ## Coursework document
 
-The accompanying formal brief is named `simplified_code_review_coursework.tex`. If provided in your repository, upload it to Overleaf and compile using pdfLaTeX. This README also contains the full assignment instructions.
+The accompanying formal brief is named `Coursework 01`. If provided in your repository, upload it to Overleaf and compile using pdfLaTeX. This README also contains the full assignment instructions.
